@@ -1,0 +1,178 @@
+{
+    "questions": [
+        {
+            "questionText": "Who developed Typescript?",
+            "options": [{
+                    "text": "Anders Hejlsberg",
+                    "correct": true
+                },
+                {
+                    "text": "Mark Candy"
+                },
+                {
+                    "text": "Stanlacke"
+                },
+                {
+                    "text": "None"
+                }
+            ]
+            
+        },
+        {
+            "questionText": "Which command is used to generate a Javascript file from Typescript file?",
+            "options": [{
+                    "text": "npm fileName.ts"
+                },
+                {
+                    "text": "tsc fileName.ts",
+                    "correct": true
+                },
+                {
+                    "text": "tsc-js fileName.ts"
+                },
+                {
+                    "text": "All of the Above"
+                    
+                }
+            ]
+        },
+        {
+            "questionText": " What are different components of TypeScript?",
+            "options": [{
+                    "text": "Language"
+                },
+                {
+                    "text": "Compiler"
+                },
+                {
+                    "text": "Language Service"
+                },
+                {
+                    "text": "All of the above",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Which keyword declares a module?",
+            "options": [{
+                    "text": "type"
+                },
+                {
+                    "text": "namespace"
+                },
+                {
+                    "text": "export",
+                    "correct": true
+                },
+                {
+                    "text": "declare"
+                }
+            ]
+        },
+        
+        {
+            "questionText": "Which of the following are valid access modifiers in Typescript?",
+            "options": [{
+                    "text": "private"
+                },
+                {
+                    "text": "public"
+                },
+                {
+                    "text": "protected"
+                },
+                {
+                    "text": "All the Above",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "How can we specify properties and methods for an object in TypeScript?",
+            "options": [{
+                    "text": "Use classes."
+                },
+                {
+                    "text": "Use interfaces.",
+                    "correct": true
+                },
+                {
+                    "text": "Use enums."
+                },
+                {
+                    "text": "Use async/await."
+                }
+            ]            
+        },
+        {
+            "questionText": "How is a property accessible within a class?",
+            "options": [{
+                    "text": "Using this.propertyName",
+                    "correct": true
+                },
+                {
+                    "text": "Accessors"
+                },
+                {
+                    "text": "Destructuring"
+                },
+                {
+                    "text": "Arrow function"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following is NOT a type used in TypeScript?",
+            "options": [{
+                    "text": "number"
+                },
+                {
+                    "text": "string"
+                },
+                {
+                    "text": "boolean"
+                },
+                {
+                    "text": "enum",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Which configuration file is required to compile the whole TypeScript Project?",
+            "options": [{
+                    "text": "tsconfig.js"
+                },
+                {
+                    "text": "tsconfig.json",
+                    "correct": true
+                },
+                {
+                    "text": "web.json"
+                },
+                {
+                    "text": "app.json"
+                }
+            ]
+        },
+        {
+            "questionText": "What is needed to debug a TypeScript file?",
+            "options": [{
+                    "text": ".tsx source map file"
+                },
+                {
+                    "text": ".jsx source map file"
+                },
+                {
+                    "text": ".tt source map file"
+                },
+                {
+                    "text": ".js source map file",
+                    "correct": true
+                    
+                }
+            ]
+        }
+    ]
+}
